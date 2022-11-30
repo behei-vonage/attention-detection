@@ -11,6 +11,10 @@ To setup the app on your machine first clone the repo:
 
 `git clone https://github.com/hamzanasir/attention-detection.git`
 
+If you have NVM (Node Version Manager) please set your node to the correct version using:
+
+`nvm use`
+
 Now install the dependencies needed for the application:
 
 `npm install`
