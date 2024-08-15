@@ -1,4 +1,4 @@
-# Attention Detection Sample App
+# Pose Detection Sample App
 
 A simple demo app that is leveraging Vonage Video API and TensorFlow MediaPipe Facemesh library to generate and display human pose.
 
